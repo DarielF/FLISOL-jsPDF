@@ -15,12 +15,15 @@
     "@angular/compiler": "^16.2.0",
     "@angular/core": "^16.2.0",
     "@angular/forms": "^16.2.0",
-    "@angular/platform-browser": "^16.2.0",
+    "@angular/material": "^16.2.4",
+    "@angular/platform-browser": "^16.2.12",
     "@angular/platform-browser-dynamic": "^16.2.0",
     "@angular/router": "^16.2.0",
     "jspdf": "^2.5.1",
+    "ng2-pdf-viewer": "^10.0.0",
+    "ngx-extended-pdf-viewer": "^20.0.0-alpha.2",
     "rxjs": "~7.8.0",
-    "tslib": "^2.3.0",
+    "tslib": "^2.6.2",
     "zone.js": "~0.13.0"
   },
   "devDependencies": {

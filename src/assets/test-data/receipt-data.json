@@ -1,0 +1,88 @@
+{
+    "cashier": {
+      "name": "Yamila García",
+      "id": "8807fF"
+    },
+    "total": 10000.00,
+    "date": "2024-04-27T12:00:00.000Z",
+    "items": [
+      {
+        "name": "Manzanas",
+        "qty": 5,
+        "code": "MNZN",
+        "price": 200.00,
+        "currency": {
+          "name": "Pesos Cubanos",
+          "symbol": "$",
+          "short": "CUP",
+          "rate": 350.00
+        }
+      },
+      {
+        "name": "Naranjas",
+        "qty": 3,
+        "code": "NRJN",
+        "price": 105.00,
+        "currency": {
+          "name": "Pesos Cubanos",
+          "symbol": "$",
+          "short": "CUP",
+          "rate": 350.00
+        }
+      },
+      {
+        "name": "Paquete de arroz de 1Kg",
+        "qty": 2,
+        "code": "ARZ1KG",
+        "price": 600.00,
+        "currency": {
+          "name": "Pesos Cubanos",
+          "symbol": "$",
+          "short": "CUP",
+          "rate": 350.00
+        }
+      },
+      {
+        "name": "Paquete de Pollo de 5Lb.",
+        "qty": 2,
+        "code": "PLL5LB",
+        "price": 3500.00,
+        "currency": {
+          "name": "Pesos Cubanos",
+          "symbol": "$",
+          "short": "CUP",
+          "rate": 350.00
+        }
+      },
+      {
+        "name": "Paquete de espaguetis 500g",
+        "qty": 2,
+        "code": "SPGT5G",
+        "price": 400.00,
+        "currency": {
+          "name": "Pesos Cubanos",
+          "symbol": "$",
+          "short": "CUP",
+          "rate": 350.00
+        }
+      },
+      {
+        "name": "Bloque de Queso Gouda",
+        "qty": 1,
+        "code": "QSGBLK",
+        "price": 15.00,
+        "currency": {
+          "name": "Euros",
+          "symbol": "$",
+          "short": "CUP",
+          "rate": 350.00
+        }
+      }
+    ],
+    "storeDetails": {
+      "name": "MYPIME - El Encanto",
+      "location": "7ma e/ 6ta y 5ta, Playa",
+      "phone": "(+53) 7123-4567"
+    }
+  }
+  

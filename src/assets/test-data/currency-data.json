@@ -1,0 +1,20 @@
+[
+    {
+      "name": "US Dollar",
+      "symbol": "$",
+      "short": "USD",
+      "rate": 1
+    },
+    {
+      "name": "Euro",
+      "symbol": "€",
+      "short": "EUR",
+      "rate": 390
+    },
+    {
+      "name": "Pesos Cubanos",
+      "symbol": "£",
+      "short": "CUP",
+      "rate": 350
+    }
+  ]

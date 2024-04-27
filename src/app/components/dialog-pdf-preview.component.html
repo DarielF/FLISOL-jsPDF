@@ -1,0 +1,23 @@
+<section style="max-height: 700px; height: 700px; max-width: 500px; width: 500px; position: relative">
+    <ng-container *ngIf="this.receiptPDFService.loadedPDF">
+        <div *ngFor="let src of this.receiptPDFService.pdfSrc">
+                <pdf-viewer [src]="src"
+                [render-text]="true"
+                [original-size]="false"
+                style="width: 500px ; height: 700px">
+                </pdf-viewer>
+            </div>
+
+            <mat-divider></mat-divider>
+
+        <div class="action-buttons">
+            <button mat-raised-button [mat-dialog-close] color="primary">
+                Cerrar
+            </button>
+            <button mat-raised-button (click)="print()" color="primary">
+                Imprimir
+            </button>
+        </div>
+    </ng-container>
+</section>
+
